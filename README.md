@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Thesis Project<br>🌱 I’m currently learning JS<br>💬 Ask me about anything!
+🔭 I’m currently working on Thesis Project<br>🌱 I’m currently learning JS<br>💬 Ask me about anything! 
 
 
 ## 🌐 Socials:
