@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal projects<br>👯 I’m looking to collaborate on any projects!<br>💬 Ask me about anything
+👯 I’m looking to collaborate on any projects!<br>💬 Ask me about anything
 
 
 # 💻 Tech Stack:
