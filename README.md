@@ -2,7 +2,7 @@
 👯 I’m looking to collaborate on anyone!<br>💬 Ask me about anything!
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meinardzmontefalcon) 
 
 # 💻 Tech Stack:
